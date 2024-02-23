@@ -11,7 +11,7 @@ module.exports = {
   theme: {
     container: {
       center: true,
-      padding: "2rem",
+      padding: "15px",
     },
     screens: {
       sm: "640px",
@@ -54,7 +54,7 @@ module.exports = {
     },
     backgroundImage: {
       hero: 'url(/hero/bg.png)',
-      hero2: 'url(/hero/bg2.png)',
+      hero2: 'url(/hero/bg-2.png)',
     }
   },
   plugins: [require("tailwindcss-animate")],
