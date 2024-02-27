@@ -1,5 +1,6 @@
 import About from "@/components/About";
 import Featured from "@/components/Featured";
+import Find from "@/components/Find";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import Hero from "@/components/Hero";
@@ -13,6 +14,7 @@ export default function Home() {
       <Featured />
       <About />
       <Recommendation />
+      <Find />
       <Footer />
       <div className="h-[4000px]"></div>
     </main>
