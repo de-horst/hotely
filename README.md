@@ -1,3 +1,10 @@
+### ENGLISH
+Hotely made following the tutorial video found on youtube by [Cristian Mihai](https://www.youtube.com/watch?v=EyeMJvf8dG8&ab_channel=CristianMihai).
+
+
+### PORTUGUESE
+Hotely feito ao seguir o video tutorial no youtube do canal [Cristian Mihai](https://www.youtube.com/watch?v=EyeMJvf8dG8&ab_channel=CristianMihai).
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
